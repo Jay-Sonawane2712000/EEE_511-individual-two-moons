@@ -13,7 +13,7 @@ This repo contains the code for testing the MLP classifier trained on the two-ha
 
 ## How to run
 
-1. Open the notebook in Jupyter / Colab.
+1. Open the notebook in Jupyter Notebook or Google Colab.
 2. Make sure both CSV files are in the same folder as the notebook.
 3. Run all cells.
 4. The last cell will print:
